@@ -46,6 +46,3 @@ Most people have multiple credit lines linked with them.
 ## Acknowledgements
 https://core.ac.uk/download/pdf/234629128.pdf
 
-
-## Contact
-Created by [@githubusername] - feel free to contact me!
